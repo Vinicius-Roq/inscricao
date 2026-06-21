@@ -26,3 +26,4 @@ Este projeto simula uma página de inscrição para um workshop fictício. O obj
 * Armazenamento automático dos dados em uma planilha.
 * Envio automático de e-mail de confirmação.
 * Integração entre formulário, Google Sheets e Google Apps Script.
+* link: https://oficinatek.netlify.app/
